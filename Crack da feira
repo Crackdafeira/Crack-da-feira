@@ -27,7 +27,7 @@ TPtestWillz:AddButton({
     Callback = function()
         -- Configuração do teleporte
         local targetCFrame = CFrame.new(-363.515137, 9.21853161, -618.074219, -0.991239369, -1.81198644e-07, 0.132079616, -4.21898384e-11, 1.00000012, 1.13315446e-06, -0.132079631, 1.35955133e-06, -0.99123925)
-        local speed = 40 -- Velocidade de 40 unidades por segundo
+        local speed = 50 -- Velocidade de 40 unidades por segundo
         local pauseTime = 0.5 -- Pausa de 0.5 segundos
         local moveTime = 2 -- Tempo de movimento de 2 segundos antes da pausa
 
